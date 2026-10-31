@@ -1,0 +1,9 @@
+{
+  "appId": "app.careflow.lembretes",
+  "appName": "CareFlow",
+  "webDir": "www",
+  "android": { "backgroundColor": "#f4f1ea" },
+  "plugins": {
+    "LocalNotifications": { "smallIcon": "ic_stat_careflow", "iconColor": "#1d6b64" }
+  }
+}
