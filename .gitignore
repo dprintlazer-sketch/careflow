@@ -1,4 +1,2 @@
-node_modules/
-android/
-www/lib/
-scripts/sample-*.txt
+name: Compilar CareFlow (Android)
+.github/workflows/build.yml
